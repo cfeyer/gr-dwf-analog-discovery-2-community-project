@@ -1,0 +1,7 @@
+/*!
+ * \defgroup block GNU Radio DWF_ANALOG_DISCOVERY_2_COMMUNITY_MODULE C++ Signal Processing Blocks
+ * \brief All C++ blocks that can be used from the DWF_ANALOG_DISCOVERY_2_COMMUNITY_MODULE GNU Radio
+ *        module are listed here or in the subcategories below.
+ *
+ */
+
