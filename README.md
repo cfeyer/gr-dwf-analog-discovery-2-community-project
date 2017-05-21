@@ -3,6 +3,6 @@ GNU Radio plugin module for integrating the Digilent Analog Discovery 2 I/O devi
 
 Project status: not useful yet
 
-This is a community project. This project is not affiliated with or endorsed by Digilient.
+This is a community project. This project is not affiliated with or endorsed by Digilent.
 
 Background discussion: https://forum.digilentinc.com/topic/1700-analog-discovery-2-as-software-defined-radio/
